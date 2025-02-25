@@ -23,14 +23,25 @@ body {
     height: 50%;
 }
 
-.c1 {
-    width: 100%;
+.c2 {
+    width: 50%;
     height: 100%;
     position: relative;
     float: left;
 }
 
 .Here {
+    text-align: center;
+    font-size: 1.5em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: white;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Extern {
     text-align: center;
     font-size: 1.5em;
     color: purple;
